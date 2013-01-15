@@ -1,5 +1,10 @@
 #!/usr/bin/python
 
+'''
+Find the complete problem statement here:
+http://projecteuler.net/problem=24
+'''
+
 from math import factorial
 #number of digits
 n = 10
